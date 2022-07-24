@@ -4,7 +4,7 @@ from discord.ext import commands
 from dicAudio import audios
 
 token = 'Token Goes Here'
-pathFF = 'C:/Users/Aluno/Downloads/ffmpeg-2022-07-21-git-f7d510b33f-essentials_build/bin/ffmpeg.exe'
+pathFF = 'Path to FFMpeg.exe'
 
 bot = commands.Bot(command_prefix='>')
 
